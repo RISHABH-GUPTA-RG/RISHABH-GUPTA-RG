@@ -32,3 +32,7 @@
     From <a href="https://github.com/RISHABH-GUPTA-RG/RISHABH-GUPTA-RG">Rishabh Gupta</a>
   </p>
 </samp>
+<!-->
+https://github.com/kautukkundan/Awesome-Profile-README-templates
+https://github.com/anuraghazra/github-readme-stats
+<--!>
