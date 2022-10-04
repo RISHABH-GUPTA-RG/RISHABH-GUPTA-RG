@@ -1,10 +1,9 @@
 <!-- Greetings -->
 <h2><b>Hello There! <img src="/images/hello-hand.gif" width="60px"></h2>
-<h1>I am Rishabh gupta</b></h1>
 
 <!-- About -->
 <h2>About:</h2>
-Hi I'm Rishabh Gupta. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b>Html</b> and <b>Css</b>. I'm 18 years old and 5-6 Years of coding. I'm a 🎶 music lover and a Sprinter 🏃. 
+Hi I'm <b>Rishabh Gupta</b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b>Html</b> and <b>Css</b>. I'm 18 years old and 5-6 Years of coding. I'm a 🎶 music lover and a Sprinter 🏃. 
 <ul>
   <li>Computer Science And Engineering, B. Tech, 1st Year.</li>
   <li>Education : VIT-Bhopal, India.</li>
