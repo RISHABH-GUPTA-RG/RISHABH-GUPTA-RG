@@ -1,4 +1,4 @@
-<h2 align="Center"><b>I am Rishabh gupta</b></h3><hr>
+<h2 align="Center"><b>Rishabh gupta</b></h3><hr>
 <h3 align="Center">I love math and coding.</h3>
 <p align="center"><br>
   <samp>
