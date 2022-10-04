@@ -1,5 +1,6 @@
 <!-- Greetings -->
-<h2 align="Center"><b>Hello There! <img src="/images/hello-hand.gif" width="60px">I am Rishabh gupta</b></h1>
+<h2><b>Hello There! <img src="/images/hello-hand.gif" width="60px"></h2>
+<h1>I am Rishabh gupta</b></h1>
 
 <!-- About -->
 <h2>About:</h2>
@@ -53,20 +54,25 @@ Hi I'm Rishabh Gupta. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b>Html</b> and 
   
 <!-- Contact Me -->
 ## Find me here:  
-<p><a target="_blank" href="https://www.linkedin.com/in/aman_m06/">
+<p><a target="_blank" href="https://www.linkedin.com/in/rishabh-gupta-a07695176/">
   <img align="left" alt="LinkdeIN" width="40px" src="/images/linkedin.png" />
 </a>
-<a target="_blank" href="https://www.instagram.com/_amanmaury/">
+<a target="_blank" href="https://www.instagram.com/rishabh_gupta_rg_/">
   <img align="left" alt="Instagram" width="40px" src="/images/instagram.png" />
 </a>
-<a target="_blank" href="mailto:amanmaury36@gmail.com">
-  <img align="left" alt="Gmail" width="40px" src="/images/gmail.png" />
+<a target="_blank" href="https://twitter.com/Rishabh_Guptarg">
+  <img align="left" alt="Twitter" width="40px" src="/images/twitter.png" />
 </a>
-<a target="_blank" href="https://fb.com/aman.maurya.06">
-  <img align="left" alt="Facebook" width="40px" src="/images/fb.png" />
-<a target="_blank" href="https://twitter.com/aman_m06">
-  <img align="left" alt="Facebook" width="40px" src="/images/twitter.png" />
-</a></br></br>
+<a target="_blank" href="https://www.hackerrank.com/rishabhguptarg_1">
+  <img align="left" alt="HackerRank" width="40px" src="/images/hackerrank.png" />
+</a>
+<a target="_blank" href="https://leetcode.com/RISHABH-GUPTA-RG/">
+  <img align="left" alt="LeetCode" width="40px" src="/images/leetcode.png" />
+</a>
+<a target="_blank" href="https://www.codechef.com/users/rishabhgupta_r">
+  <img align="left" alt="CodeChef" width="40px" src="/images/codechef.png" />
+</a>
+  </br></br>
 </samp>
 <!--
 https://github.com/kautukkundan/Awesome-Profile-README-templates
