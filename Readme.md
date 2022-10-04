@@ -18,11 +18,14 @@
       <a href ="https://en.wikipedia.org/wiki/HTML/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH-GUPTA-RG)<br>
-![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=RISHABH-GUPTA-RG&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
-  </samp>
+ </samp>
   </p>
+
+
+![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=RISHABH-GUPTA-RG&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH-GUPTA-RG)
+
 </details>
 <br>
 
