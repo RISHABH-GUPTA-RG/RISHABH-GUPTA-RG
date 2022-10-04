@@ -2,7 +2,7 @@
 <h3 align="Center">I love math and coding.</h3>
 <p align="center"><br>
   <samp>
-    「 Computer Science Bachelor of Science Candidate 🤓🧐 <b>Vellore Institute Of Technology</b> 」<br>
+    「 Computer Science Bachelor of Science Candidate 🤓🧐 <b>Vellore Institute Of Technology-Bhopal</b> 」<br>
   </samp>
 </p>
 
