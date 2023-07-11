@@ -39,8 +39,8 @@ Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b
 <h2>GITHUB STATS:-</h2>
 
 
-![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=RISHABH-GUPTA-RG&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH-GUPTA-RG)
+![Rishabh's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RISHABH-GUPTA-RG&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RISHABH-GUPTA-RG)
 
 </details>
 <br>
