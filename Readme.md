@@ -1,14 +1,14 @@
 <!-- Greetings -->
-<h2><b>Hello There! <img src="/images/hello-hand.gif" width="60px"></h2>
+<h2><b>Hello There! <img src="./images/hello-hand.gif" width="60px"></h2>
 
 <!-- About -->
-<h2>About:</h2> 
-Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b>Html</b> and <b>Css</b>. I'm 19 years old and have 6-7 Years of coding. I'm a 🎶 music lover and an athelete🏃. 
+<h2>About:</h2>
+Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b>Html</b> and <b>Css</b>. I'm 19 years old and have 6-7 Years of coding. I'm a 🎶 music lover and an athelete🏃.
 <ul>
-  <li>Computer Science And Engineering, B. Tech, 1st Year.</li>
+  <li>Computer Science And Engineering, B. Tech, 3rd Year.</li>
   <li>Education : VIT-Bhopal, India.</li>
-  <li>Currently playing with Java.</li>
-  <li>Ask me about Anime 👻 Workouts 🏋🏻 and any of the <b>Coding</b> stuff.😁</li>
+  <li>Currently playing with Flutter.</li>
+  <li>Ask me about Anime 👻 Workouts 🏋🏻 and any of the <b>Coding</b> stuff.😁</li> 
   <li>Fun fact: I'm good at Playing Video games.😄 </li>
 </ul></br>
 
@@ -18,61 +18,119 @@ Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b
   </samp>
 </p>
 
-<details align="center">
-   <summary> <samp>&#9776; More Details</samp></summary>
-   <p align="center">
-     <br>
-     <!-- Languages and tools -->
-     <H2>Languages and tools</h2>
-      <a href="https://github.com/RISHABH-GUPTA-RG?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-      <a href ="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
-      <a href ="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C_Language-2e84e5?style=flat-square&logo=C&logoColor=white"></a>
-      <a href ="https://www.cprogramming.com/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-      <a href ="https://www.java.com/en/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
-      <a href ="https://en.wikipedia.org/wiki/HTML/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
-  <br>
 
+# 💻 Tech Stack :
 
- </samp>
-  </p>
+### <p style="font-size:24px">Languages</p>
 
-<h2>GITHUB STATS:-</h2>
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 
+<hr>
 
-![Rishabh's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RISHABH-GUPTA-RG&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RISHABH-GUPTA-RG)
+### <p style="font-size:24px">Frameworks</p>
 
-</details>
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+<hr>
+
+### <p style="font-size:24px">Game Engine</p>
+
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
+
+<hr>
+
+### <p style="font-size:24px">Database</p>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+
+<hr>
+
+### <p style="font-size:24px">Machine Learine/ Data Science</p>
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
+
+<hr>
+
+### <p style="font-size:24px">Operation System</p>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+<hr>
+
+### <p style="font-size:24px">IDE</p>
+
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-white?logo=codepen&logoColor=black)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&logo=neovim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+
+<hr>
+<br>
+<br>
 <br>
 
-<samp>
-  <p align="center">
-    ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/RISHABH-GUPTA-RG/RISHABH-GUPTA-RG">Rishabh Gupta</a>
-  </p>
-  
-<!-- Contact Me -->
-## Find me here:  
-<p><a target="_blank" href="https://www.linkedin.com/in/rishabh-gupta-a07695176/">
-  <img align="left" alt="LinkdeIN" width="40px" src="/images/linkedin.png" />
-</a>
-<a target="_blank" href="https://www.instagram.com/rishabh_gupta_rg_/">
-  <img align="left" alt="Instagram" width="40px" src="/images/instagram.png" />
-</a>
-<a target="_blank" href="https://twitter.com/Rishabh_Guptarg">
-  <img align="left" alt="Twitter" width="40px" src="/images/twitter.png" />
-</a>
-<a target="_blank" href="https://www.hackerrank.com/rishabhguptarg_1">
-  <img align="left" alt="HackerRank" width="40px" src="/images/hackerrank.png" />
-</a>
-<a target="_blank" href="https://leetcode.com/RISHABH-GUPTA-RG/">
-  <img align="left" alt="LeetCode" width="40px" src="/images/leetcode.png" />
-</a>
-<a target="_blank" href="https://www.codechef.com/users/rishabhgupta_r">
-  <img align="left" alt="CodeChef" width="40px" src="/images/codechef.png" />
-</a>
-  </br></br>
-</samp>
+
+# 💬 Social:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rishabh_gupta_rg_/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-gupta-a07695176/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)]()
+[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)]()
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/Rishabh_Guptarg)
+
+<hr>
+<br>
+<br>
+<br>
+
+# 💬 GITHUB stats:
+
+<div align='center'>
+
+![Rishabh's Github Stat](https://github-readme-streak-stats.herokuapp.com/?user=rishabh-gupta-rg&theme=jolly&hide_border=false)
+
+<br>
+
+![Rishabh's Language Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-gupta-rg&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+
 <!--
 https://github.com/kautukkundan/Awesome-Profile-README-templates
 https://github.com/anuraghazra/github-readme-stats
