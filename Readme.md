@@ -12,6 +12,8 @@ Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b
   <li>Fun fact: I'm good at Playing Video games.😄 </li>
 </ul></br>
 
+Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://rishabh-gupta-rg.github.io/Html-Projects/PortFolio/)
+
 <p align="center">
   <samp>
     「 Computer Science Bachelor of Technology Student 🤓🧐 <b>Vellore Institute Of Technology-Bhopal</b> 」<br>
@@ -38,7 +40,7 @@ Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 
-<hr>
+
 
 ### <p style="font-size:24px">Frameworks</p>
 
@@ -53,14 +55,15 @@ Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-<hr>
+
+
 
 ### <p style="font-size:24px">Game Engine</p>
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
 
-<hr>
+
 
 ### <p style="font-size:24px">Database</p>
 
@@ -69,7 +72,7 @@ Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
-<hr>
+
 
 ### <p style="font-size:24px">Machine Learine/ Data Science</p>
 
@@ -82,7 +85,7 @@ Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
 
-<hr>
+
 
 ### <p style="font-size:24px">Operation System</p>
 
@@ -91,7 +94,7 @@ Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-<hr>
+
 
 ### <p style="font-size:24px">IDE</p>
 
@@ -100,10 +103,9 @@ Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
-<hr>
+
 <br>
-<br>
-<br>
+
 
 
 # 💬 Social:
@@ -113,20 +115,18 @@ Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)]()
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/Rishabh_Guptarg)
 
-<hr>
 <br>
-<br>
-<br>
+
 
 # 💬 GITHUB stats:
 
 <div align='center'>
 
-![Rishabh's Github Stat](https://github-readme-streak-stats.herokuapp.com/?user=rishabh-gupta-rg&theme=jolly&hide_border=false)
+![rishabh-gupta-rg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishabh-gupta-rg&theme=dracula&hide_border=false)
 
 <br>
 
-![Rishabh's Language Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-gupta-rg&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![rishabh-gupta-rg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-gupta-rg&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 </div>
 
