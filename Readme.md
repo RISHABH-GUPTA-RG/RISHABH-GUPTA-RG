@@ -126,7 +126,7 @@ Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?lo
 
 <br>
 
-![rishabh-gupta-rg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-gupta-rg&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![rishabh-gupta-rg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-gupta-rg&hide=jupyter%20notebook&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 </div>
 
