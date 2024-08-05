@@ -130,7 +130,6 @@ Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?lo
 
 </div>
 
-
 <!--
 https://github.com/kautukkundan/Awesome-Profile-README-templates
 https://github.com/anuraghazra/github-readme-stats
