@@ -5,9 +5,9 @@
 <h2>About:</h2>
 Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b>Html</b> and <b>Css</b>. I'm 19 years old and have 6-7 Years of coding. I'm a 🎶 music lover and an athelete🏃.
 <ul>
-  <li>Computer Science And Engineering, B. Tech, 3rd Year.</li>
+  <li>Computer Science And Engineering, B. Tech, 4th Year.</li>
   <li>Education : VIT-Bhopal, India.</li>
-  <li>Currently playing with Flutter.</li>
+  <li>Currently playing with Fullstack Development.</li>
   <li>Ask me about Anime 👻 Workouts 🏋🏻 and any of the <b>Coding</b> stuff.😁</li> 
   <li>Fun fact: I'm good at Playing Video games.😄 </li>
 </ul></br>
