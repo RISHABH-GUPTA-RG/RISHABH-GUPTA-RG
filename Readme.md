@@ -1,24 +1,44 @@
 <!-- Greetings -->
 <h2><b>Hello There! <img src="./images/hello-hand.gif" width="60px"></h2>
 
-<!-- About -->
-<h2>About:</h2>
-Hi I'm <b><u>Rishabh Gupta</u></b>. I know <b>Python</b> ,<b>C</b>,<b>C++</b>,<b>Html</b> and <b>Css</b>. I'm 19 years old and have 6-7 Years of coding. I'm a 🎶 music lover and an athelete🏃.
-<ul>
-  <li>Computer Science And Engineering, B. Tech, 4th Year.</li>
-  <li>Education : VIT-Bhopal, India.</li>
-  <li>Currently playing with Fullstack Development.</li>
-  <li>Ask me about Anime 👻 Workouts 🏋🏻 and any of the <b>Coding</b> stuff.😁</li> 
-  <li>Fun fact: I'm good at Playing Video games.😄 </li>
-</ul></br>
+```python
+class RishabhGupta:
+    def __init__(self):
+        self.name = "Rishabh Gupta"
+        self.age = 21
+        self.education = {
+            "degree": "B.Tech in Computer Science and Engineering",
+            "year": "4th Year",
+            "college": "VIT Bhopal, India"
+        }
+        self.current_focus = "Fullstack Development and AI Projects"
+        self.fun_fact = "I'm better at headshots than hotkeys 😄"
+        self.hobbies = ["🎧 Music", "🎮 Gaming", "🏋🏻 Workout", "🏃‍♂️ Athletics", "👻 Anime"]
 
-Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://rishabh-gupta-rg.github.io/Html-Projects/PortFolio/)
+    def ask_me_about(self):
+        return [
+            "Fullstack Development",
+            "Game Development",
+            "Machine Learning & AI",
+            "Flutter Mobile Apps",
+            "CTFs & Cybersecurity"
+        ]
 
-<p align="center">
-  <samp>
-    「 Computer Science Bachelor of Technology Student 🤓🧐 <b>Vellore Institute Of Technology-Bhopal</b> 」<br>
-  </samp>
-</p>
+    def skills(self):
+        return {
+            "Programming Languages": ["C", "C++", "C#", "Java", "Python", "JavaScript", "TypeScript"],
+            "Web Development": ["HTML", "CSS", "jQuery", "React.js", "Node.js", "Express.js", "REST APIs", "JSON"],
+            "Database & Backend": ["MySQL", "MongoDB", "Flask", "Django"],
+            "Machine Learning & AI": ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch", "OpenCV"],
+            "Tools & Platforms": ["Git", "GitHub", "Postman", "Qt", "VS Code"],
+            "Software Concepts": ["Object-Oriented Programming", "Functional Programming", "DevOps"]
+        }
+
+    def portfolio(self):
+        return "https://rishabh-gupta-rg.github.io/Html-Projects/PortFolio/"
+
+me = RishabhGupta()
+```
 
 
 # 💻 Tech Stack :
