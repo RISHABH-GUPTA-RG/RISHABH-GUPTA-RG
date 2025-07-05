@@ -30,7 +30,7 @@ class RishabhGupta:
             "Web Development": ["HTML", "CSS", "jQuery", "React.js", "Node.js", "Express.js", "REST APIs", "JSON"],
             "Database & Backend": ["MySQL", "MongoDB", "Flask", "Django"],
             "Machine Learning & AI": ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch", "OpenCV"],
-            "Tools & Platforms": ["Git", "GitHub", "Postman", "Qt", "VS Code"],
+            "Tools & Platforms": ["Git", "GitHub", "Postman", "Qt", "VS Code", "Vim"],
             "Software Concepts": ["Object-Oriented Programming", "Functional Programming", "DevOps"]
         }
 
